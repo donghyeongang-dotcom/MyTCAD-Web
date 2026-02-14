@@ -31,7 +31,7 @@
  ┣ 📜 ai_manager.py      # [AI Agent] Gemini API 연동 및 프롬프트 엔지니어링 모듈
  ┣ 📜 requirements.txt   # 프로젝트 의존성 라이브러리 목록
  ┗ 📜 README.md          # 프로젝트 설명서
-
+```
 🧠 핵심 코드 설명
 MyTCAD.py
 solve_pn_junction(): 포아송 방정식을 이산화(Discretization)하여 자코비안 행렬을 구성하고, 비선형 방정식을 풉니다.
