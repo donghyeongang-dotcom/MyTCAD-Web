@@ -22,7 +22,6 @@
 | Visualization: `Matplotlib`(Energy Band Diagram, I-V Curve 렌더링) 
 | Database:  `Supabase` (시뮬레이션 로그 및 파라미터 저장 (Cloud DB)) 
 
----
 ```markdown
 ## 📂 3. 파일 구조 및 설명 (File Structure)
 
