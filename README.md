@@ -44,10 +44,14 @@ AITutor 클래스: 시뮬레이션 변수(N_a, N_d, V_{bias})를 프롬프트에
 📸 4. 실행 결과 (Screenshots)
 
 (1) 물리적 특성 분석 (Spatial Distribution)
-<img width="804" height="486" alt="image" src="https://github.com/user-attachments/assets/247a6299-668d-4c1f-9080-1f1510ed99d1" /><img width="826" height="415" alt="image" src="https://github.com/user-attachments/assets/98461fff-a24a-4941-b17f-0b192fa5e67d" />
+<img width="804" height="486" alt="image" src="https://github.com/user-attachments/assets/247a6299-668d-4c1f-9080-1f1510ed99d1" />
+
+<img width="826" height="415" alt="image" src="https://github.com/user-attachments/assets/98461fff-a24a-4941-b17f-0b192fa5e67d" />
 
 (2) AI 튜터 분석(AI Analysis)
+
 <img width="806" height="430" alt="image" src="https://github.com/user-attachments/assets/959087c1-7e4d-4923-ae97-f3044b4a52c4" />
+
 전위(Potential), 전기장(Electric Field), 전하 밀도(Charge Density), 캐리어 농도(Carrier Conc.)가 물리 법칙에 맞게 계산됨을 확인했습니다.
 시뮬레이션 결과에 대해 AI가 "공핍층이 확장되는 원리" 등을 실시간으로 설명해줍니다.
 
