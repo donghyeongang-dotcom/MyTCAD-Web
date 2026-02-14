@@ -1,4 +1,7 @@
 # ⚡ AI-Powered Semiconductor Simulator (MyTCAD)
+
+[streamlit app] https://mytcad-web-kr7x3waxhqj7a9x7dchd9z.streamlit.app/
+
 > 전자공학 전공 지식(Semiconductor Physics)을 바탕으로 수치해석 시뮬레이터를 직접 구현하고, Google Gemini API를 연동하여 실시간 AI 튜터링 기능을 탑재한 웹 애플리케이션입니다.
 
 ## 📌 1. 프로젝트 개요 (Overview)
